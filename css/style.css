@@ -54,3 +54,52 @@ div#header_text_id .user_password {
   padding-right: 1rem;
   padding-left: 1rem;
 }
+
+/* MAIN CSS */
+#main {
+  display: grid;
+  grid-template-rows: 15rem auto;
+  justify-content: center;
+}
+
+.img_container {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.intuit_icon {
+  height: 14.5vh;
+}
+
+.firm_icons {
+  margin-top: 1rem;
+  padding-top: 0.2rem;
+}
+
+.i1 {
+  height: 1.5rem;
+
+}
+
+.i2 {
+  height: 1.5rem;
+  padding-left: 1rem;
+}
+
+.i3 {
+  height: 1.5rem;
+  padding-left: 1rem;
+}
+
+.logo_banner span {
+  display: inline-block;
+  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: gray;
+  align-items: center;
+}
+
+.logo_banner {
+  position: relative;
+  top: -1rem;
+}
