@@ -103,3 +103,28 @@ div#header_text_id .user_password {
   position: relative;
   top: -1rem;
 }
+
+/* FOOTER CSS */
+
+#footer {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.footer_content {
+  font-weight: 200;
+  color: grey;
+  line-height: 1.3rem;
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+}
+
+.footer_link {
+  font-weight: 200;
+  color: grey;
+  text-decoration: none;
+}
+
+.footer_link:hover {
+  text-decoration: underline;
+}
