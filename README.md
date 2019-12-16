@@ -17,7 +17,7 @@ and a couple of float objects
 
 ## Live Demo
 
-[Live Demo Link](coming soon)
+[Live Demo Link](https://htmlpreview.github.io/?https://github.com/duducus/form_project/blob/form_feature/index.html)
 
 👤 **Author**
 
