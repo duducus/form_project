@@ -10,7 +10,7 @@ Form (that contains: logos, searchboxs-with buttons-, and user icons),
 footer 
 and a couple of float objects
 
-![screenshot](./app_screenshot.png)
+![screenshot](./app_screenshots.png)
 
 ## Built With
 
