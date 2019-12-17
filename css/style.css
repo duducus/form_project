@@ -34,7 +34,7 @@ body {
 
 .header_text {
   position: absolute;
-  font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Times New Roman", Times, serif;
   top: 1.5rem;
   display: inline-block;
 }
@@ -103,6 +103,114 @@ div#header_text_id .user_password {
   position: relative;
   top: -1rem;
 }
+
+/* form CSS */
+.form_container {
+  margin-top: -2rem;
+  border: 1px solid rgb(204, 204, 204);
+  background-color: #fff;
+  width: auto;
+  height: auto;
+}
+
+.form_article {
+  padding: 2.5rem 2.5rem 0 2.5rem;
+  text-align: center;
+}
+
+
+
+.sign_up_form {
+  padding: 2.5rem;
+}
+
+.form_heading {
+  font-size: 1.3rem;
+  color: grey;
+  font-weight: 100;
+}
+
+#phone_text {
+  font-size: 0.7rem;
+}
+
+.form_link,
+.create_link {
+  text-decoration: none;
+  color: rgb(62, 62, 235);
+}
+
+fieldset {
+  border: none;
+}
+
+.form_set label:not(:first-child) {
+  margin-top: 1.4rem;
+  display: block;
+}
+
+.form_set input {
+  margin-top: 0.6rem;
+  display: block;
+  width: 24rem;
+  height: 2rem;
+}
+
+.btn_create {
+  border: 1px solid rgb(172, 172, 172);
+  background-color: rgb(62, 62, 235);
+  border-radius: 0.3rem;
+  color: white;
+  margin-top: 2rem;
+  padding: 0.5rem 0.4rem 0.5rem 0.4rem;
+  margin-bottom: 1rem;
+  width: 24rem;
+}
+
+.terms_and_conditions {
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  color: grey;
+  font-size: 0.75rem;
+  line-height: 3vh;
+}
+
+.form_set_footer {
+  background-color: rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.form_footer_content {
+  text-align: center;
+  font-weight: 200;
+  color: grey;
+  font-size: 0.65rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.terms_link {
+  color: rgb(62, 62, 235);
+  text-decoration: none;
+}
+
+.terms_link:hover {
+  color: rgb(62, 62, 235);
+  text-decoration: underline;
+}
+
+.form_set_link {
+  color: rgb(62, 62, 235);
+  text-decoration: none;
+}
+
+.form_set_link:hover {
+  color: rgb(62, 62, 235);
+  text-decoration: underline;
+}
+
+
 
 /* FOOTER CSS */
 
