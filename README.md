@@ -5,7 +5,6 @@ About the project
 This HTML/CSS project is the second on the Microverse course. The aim of the project is to make a clone of a mint form webpage. 
 
 The clone of the page contains a: 
-<<<<<<< HEAD
 
 Form (that contains: logos, searchboxs-with buttons-, and user icons), 
 footer 
@@ -18,8 +17,6 @@ Form (that contains: logos, searchboxs-with buttons-, and user icons),
 footer 
 and a couple of float objects
 
-![screenshot](./app_screenshots.png)
->>>>>>> 904931947510f0d64c5d1e3fb7276bdad4ddc684
 
 ## Built With
 
@@ -39,7 +36,6 @@ Jorge Cerón
 - Linkedin: [linkedin](https://www.linkedin.com/in/jorge-francisco-cer%C3%B3n-gil-343583113/)
 - Google: jorge.ceron.gil@gmail.com
 
-=======
 
 👤 **Author**
 
@@ -49,7 +45,6 @@ Jorge Cerón
 - Linkedin: [linkedin](https://www.linkedin.com/in/jorge-francisco-cer%C3%B3n-gil-343583113/)
 - Google: jorge.ceron.gil@gmail.com
 
->>>>>>> 904931947510f0d64c5d1e3fb7276bdad4ddc684
 
 ## 🤝 Contributing
 
