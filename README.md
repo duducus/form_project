@@ -1,74 +1,41 @@
-# Project Name
+# Microverse Second Project:
+# Embedding Images and Video
 
-> One paragraph statement about the project.
+About the project
+This HTML/CSS project is the second on the Microverse course. The aim of the project is to make a clone of a mint form webpage. 
+
+The clone of the page contains a: 
+
+Form (that contains: logos, searchboxs-with buttons-, and user icons), 
+footer 
+and a couple of float objects
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
-
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML,
+- CSS
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://htmlpreview.github.io/?https://github.com/duducus/form_project/blob/form_feature/index.html)
 
+👤 **Author**
 
-## Getting Started
+Jorge Cerón 
+- Github: [@duducus](https://github.com/duducus)
+- Twitter: [@jorge_ceron](https://twitter.com/ceronjorge1)
+- Linkedin: [linkedin](https://www.linkedin.com/in/jorge-francisco-cer%C3%B3n-gil-343583113/)
+- Google: jorge.ceron.gil@gmail.com
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/duducus/form_project/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.

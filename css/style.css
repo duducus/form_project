@@ -1,0 +1,259 @@
+/* RESET WEBPAGES TO DEFAULT CSS */
+*,
+*::before,
+*::after {
+  padding: 0%;
+  margin: 0%;
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 80%;
+  box-sizing: border-box;
+  background-color: rgb(221, 221, 221);
+}
+
+/*  HEADER CSS */
+
+#header {
+  width: 100%;
+}
+
+.header_container {
+  width: 30%;
+  float: right;
+  position: relative;
+}
+
+.header_button {
+  position: absolute;
+  top: 1.5rem;
+  left: 15rem;
+  display: inline-block;
+}
+
+.header_text {
+  position: absolute;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+  top: 1.5rem;
+  display: inline-block;
+}
+
+div#header_text_id .user_password {
+  font-size: 0.8rem;
+  color: rgb(44, 44, 216);
+}
+
+.btn_sign_in {
+  border: 1px solid rgb(172, 172, 172);
+  background-color: rgb(62, 62, 235);
+  border-radius: 8%;
+  color: white;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  padding-right: 1rem;
+  padding-left: 1rem;
+}
+
+/* MAIN CSS */
+#main {
+  display: grid;
+  grid-template-rows: 15rem auto;
+  justify-content: center;
+}
+
+.img_container {
+  text-align: center;
+  padding-top: 4rem;
+}
+
+.intuit_icon {
+  height: 14.5vh;
+}
+
+.firm_icons {
+  margin-top: 1rem;
+  padding-top: 0.2rem;
+}
+
+.i1 {
+  height: 1.5rem;
+}
+
+.i2 {
+  height: 1.5rem;
+  padding-left: 1rem;
+}
+
+.i3 {
+  height: 1.5rem;
+  padding-left: 1rem;
+}
+
+.logo_banner span {
+  display: inline-block;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 20px;
+  color: gray;
+  align-items: center;
+}
+
+.logo_banner {
+  position: relative;
+  top: -1rem;
+}
+
+/* form CSS */
+.form_container {
+  margin-top: -2rem;
+  border: 1px solid rgb(204, 204, 204);
+  background-color: #fff;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.form_article {
+  padding: 2.5rem 2.5rem 0 2.5rem;
+  text-align: center;
+  color: #4c4c4c;
+  font-weight: 400;
+  line-height: 1.1;
+  font-size: 14px;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.sign_up_form {
+  padding: 2.5rem;
+  color: #4c4c4c;
+  font-weight: 400;
+  line-height: 1.1;
+  font-size: 14px;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.form_heading {
+  color: #4c4c4c;
+  font-weight: 400;
+  line-height: 1.1;
+  font-size: 24px;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+#phone_text {
+  font-size: 0.7rem;
+}
+
+.form_link,
+.create_link {
+  text-decoration: none;
+  color: rgb(62, 62, 235);
+}
+
+fieldset {
+  border: none;
+}
+
+.form_set label:not(:first-child) {
+  margin-top: 1.4rem;
+  display: block;
+}
+
+.form_set input {
+  margin-top: 0.6rem;
+  display: block;
+  width: 100%;
+  height: 2rem;
+}
+
+.btn_create {
+  border: 1px solid rgb(172, 172, 172);
+  background-color: rgb(62, 62, 235);
+  border-radius: 0.3rem;
+  color: white;
+  margin-top: 2rem;
+  padding: 0.5rem 0.4rem 0.5rem 0.4rem;
+  margin-bottom: 1rem;
+  width: 100%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 45px;
+}
+
+.terms_and_conditions {
+  text-align: center;
+  font-style: italic;
+  font-weight: 200;
+  color: grey;
+  font-size: 0.75rem;
+  line-height: 3vh;
+}
+
+.form_set_footer {
+  background-color: rgb(221, 221, 221);
+  border-bottom: 1px solid rgb(204, 204, 204);
+}
+
+.form_footer_content {
+  text-align: center;
+  font-weight: 200;
+  color: grey;
+  font-size: 0.65rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  line-height: 1.1;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.terms_link {
+  color: rgb(62, 62, 235);
+  text-decoration: none;
+}
+
+.terms_link:hover {
+  color: rgb(62, 62, 235);
+  text-decoration: underline;
+}
+
+.form_set_link {
+  color: rgb(62, 62, 235);
+  text-decoration: none;
+}
+
+.form_set_link:hover {
+  color: rgb(62, 62, 235);
+  text-decoration: underline;
+}
+
+/* FOOTER CSS */
+
+#footer {
+  text-align: center;
+  padding-bottom: 1rem;
+  color: #4c4c4c;
+  font-weight: 400;
+  line-height: 1.1;
+  font-size: 12px;
+  font-family: AvenirNext, Avenir, Helvetica Neue, Helvetica, Arial, sans-serif;
+}
+
+.footer_content {
+  font-weight: 200;
+  color: grey;
+  line-height: 1.3rem;
+  padding-top: 2rem;
+  padding-bottom: 0.5rem;
+}
+
+.footer_link {
+  font-weight: 200;
+  color: grey;
+  text-decoration: none;
+}
+
+.footer_link:hover {
+  text-decoration: underline;
+}
